@@ -1,0 +1,129 @@
+\begin{thebibliography}{19}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Batchelder and Riefer(1999)}]{BatchelderRiefer:1999}
+William~H. Batchelder and David~M. Riefer. 1999.
+\newblock \href {https://doi.org/10.3758/BF03210812} {Theoretical and empirical
+  review of multinomial process tree modeling}.
+\newblock \emph{Psychonomic Bulletin \& Review}, 6(1):57--86.
+
+\bibitem[{Bürkner(2018)}]{R-brms}
+Paul-Christian Bürkner. 2018.
+\newblock Advanced {Bayesian} multilevel modeling with the {R} package {brms}.
+\newblock \emph{The R Journal}, 10(1):395--411.
+
+\bibitem[{Cuetos and Mitchell(1988)}]{CuetosMitchell:1988}
+Fernando Cuetos and Don~C. Mitchell. 1988.
+\newblock \href {https://doi.org/10.1016/0010-0277(88)90004-2}
+  {Cross-linguistic differences in parsing: {{Restrictions}} on the use of the
+  {{Late Closure}} strategy in {{Spanish}}}.
+\newblock \emph{Cognition}, 30(1):73--105.
+
+\bibitem[{Cuetos et~al.(1996)Cuetos, Mitchell, and Corley}]{CuetosEtAl:1996}
+Fernando Cuetos, Don~C. Mitchell, and Martin Corley. 1996.
+\newblock Parsing in different languages.
+\newblock In \emph{Language {{Processing}} in {{Spanish}}}. {Erlbaum},
+  {Hillsdale, NJ}.
+
+\bibitem[{Dillon and Wagers(2019)}]{DillonWagers:2019}
+Brian Dillon and Matthew Wagers. 2019.
+\newblock \href {https://doi.org/10.31219/osf.io/apxru} {Approaching gradience
+  in acceptability with the tools of signal detection theory}.
+\newblock Preprint, {Open Science Framework}.
+
+\bibitem[{{Din{\c c}topal-Deniz}(2010)}]{Dinctopal-Deniz:2010}
+Nazik {Din{\c c}topal-Deniz}. 2010.
+\newblock \href {https://doi.org/10.1075/lald.53.02din} {Relative clause
+  attachment preferences of {{Turkish L2}} speakers of {{English}}: {{Shallow}}
+  parsing in the {{L2}}?}
+\newblock In Bill VanPatten and Jill Jegerski, editors, \emph{Language
+  {{Acquisition}} and {{Language Disorders}}}, volume~53, pages 27--64. {John
+  Benjamins Publishing Company}, {Amsterdam}.
+
+\bibitem[{Drummond(2013)}]{ibexfarm}
+A.~Drummond. 2013.
+\newblock \href {http://spellout.net/ibexfarm/} {Ibex farm}.
+
+\bibitem[{Erdfelder et~al.(2009)Erdfelder, Auer, Hilbig, A{\ss}falg, Moshagen,
+  and Nadarevic}]{ErdfelderEtAl:2009}
+E.~Erdfelder, T.~Auer, B.~Hilbig, A.~A{\ss}falg, M~Moshagen, and L~Nadarevic.
+  2009.
+\newblock \href {https://doi.org/10.1027/0044-3409.217.3.108} {Multinomial
+  {{Processing Tree Models}}: {{A Review}} of the {{Literature}}}.
+\newblock \emph{Zeitschrift f\"ur Psychologie / Journal of Psychology},
+  217(3):108--124.
+
+\bibitem[{Frazier(1987)}]{Frazier:1987}
+Lyn Frazier. 1987.
+\newblock Sentence {{Processing}}: {{A Tutorial Review}}.
+\newblock In Max Coltheart, editor, \emph{Attention and {{Performance XII}}}.
+  {Erlbaum}, {Hillsdale, NJ}.
+
+\bibitem[{Gilboy et~al.(1995)Gilboy, Sopena, Cliftrn, and
+  Frazier}]{GilboyEtAl:1995}
+Elizabeth Gilboy, Josep-MMaria Sopena, Charles Cliftrn, and Lyn Frazier. 1995.
+\newblock \href {https://doi.org/10.1016/0010-0277(94)00636-Y} {Argument
+  structure and association preferences in {{Spanish}} and {{English}} complex
+  {{NPs}}}.
+\newblock \emph{Cognition}, 54(2):131--167.
+
+\bibitem[{Grillo et~al.(2015)Grillo, Costa, Fernandes, and
+  Santi}]{GrilloEtAl:2015}
+Nino Grillo, Jo{\~a}o Costa, Bruno Fernandes, and Andrea Santi. 2015.
+\newblock \href {https://doi.org/10.1016/j.cognition.2015.07.018} {Highs and
+  {{Lows}} in {{English Attachment}}}.
+\newblock \emph{Cognition}, 144:116--122.
+
+\bibitem[{K{\i}rk{\i}c{\i}(2004)}]{Kirkici:2004}
+Bilal K{\i}rk{\i}c{\i}. 2004.
+\newblock The processing of relative clause attachment ambiguities in
+  {{Turkish}}.
+\newblock \emph{Turkic Languages}, 8:111--121.
+
+\bibitem[{McRae et~al.(1998)McRae, {Spivey-Knowlton}, and
+  Tanenhaus}]{McRaeEtAl:1998}
+Ken McRae, Michael~J. {Spivey-Knowlton}, and Michael~K. Tanenhaus. 1998.
+\newblock \href {https://doi.org/10.1006/jmla.1997.2543} {Modeling the
+  {{Influence}} of {{Thematic Fit}} (and {{Other Constraints}}) in {{On}}-line
+  {{Sentence Comprehension}}}.
+\newblock \emph{Journal of Memory and Language}, 38(3):283--312.
+
+\bibitem[{{R Core Team}(2018)}]{R-base}
+{R Core Team}. 2018.
+\newblock \href {https://www.R-project.org/} {\emph{R: A Language and
+  Environment for Statistical Computing}}.
+\newblock R Foundation for Statistical Computing, Vienna, Austria.
+
+\bibitem[{Smallwood(2011)}]{Smallwood:2011}
+J~Smallwood. 2011.
+\newblock \href {https://doi.org/10.1111/j.1749-818X.2010.00263.x}
+  {Mind-wandering {{While Reading}}: {{Attentional Decoupling}}, {{Mindless
+  Reading}} and the {{Cascade Model}} of {{Inattention}}: {{Mind}}-wandering
+  {{While Reading}}}.
+\newblock \emph{Language and Linguistics Compass}, 5(2):63--77.
+
+\bibitem[{{Stan Development Team}(2020)}]{rstan}
+{Stan Development Team}. 2020.
+\newblock \href {http://mc-stan.org/} {{RStan}: the {R} interface to {Stan}}.
+\newblock R package version 2.19.3.
+
+\bibitem[{Staub(2007)}]{Staub:2007}
+A.~Staub. 2007.
+\newblock \href {https://doi.org/10.1016/j.jml.2006.09.001} {The return of the
+  repressed: {{Abandoned}} parses facilitate syntactic reanalysis\ding{73}}.
+\newblock \emph{Journal of Memory and Language}, 57(2):299--323.
+
+\bibitem[{Swets et~al.(2008)Swets, Desmet, Clifton, and
+  Ferreira}]{SwetsEtAl:2008}
+Benjamin Swets, Timothy Desmet, Charles Clifton, and Fernanda Ferreira. 2008.
+\newblock \href {https://doi.org/10.3758/MC.36.1.201} {Underspecification of
+  syntactic ambiguities: {{Evidence}} from self-paced reading}.
+\newblock \emph{Memory \& Cognition}, 36(1):201--216.
+
+\bibitem[{Vehtari et~al.(2017)Vehtari, A., and J.}]{loo}
+A.~Vehtari, Gelman A., and Gabry J. 2017.
+\newblock \href {https://doi.org/10.1007/s11222-016-9696-4} {Practical bayesian
+  model evaluation using leave-one-out cross-validation and waic.}
+\newblock \emph{Statistics and Computing}, 27.
+
+\end{thebibliography}
