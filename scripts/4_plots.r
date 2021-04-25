@@ -194,9 +194,9 @@ ggsave(p_r1r2hg, file = "../figures/post_pred_r1r2hg.pdf", width = 3*z, height =
 
 
 
-###########################################################
-### by-subject MAP parameter estimates for r1r2hg-model ###
-###########################################################
+######################################################################
+### population parameters MAP parameter estimates for r1r2hg-model ###
+######################################################################
 
 fit_en <- readRDS("../workspace/models/r1r2hg_fit_ranef_en.rds")
 fit_tr <- readRDS("../workspace/models/r1r2hg_fit_ranef_tr.rds")
